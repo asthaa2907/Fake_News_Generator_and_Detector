@@ -6,7 +6,7 @@ This AI-powered web app combines the creative power of **GPT-2** with the classi
 
 The interface is built using **Gradio**, allowing users to easily interact with the models directly in the browser.
 
----
+
 
 ## 📌 Features
 
@@ -16,7 +16,7 @@ The interface is built using **Gradio**, allowing users to easily interact with 
 - 💬 Seamless flow: generate fake news and instantly test it for authenticity
 - ✅ Clean and user-friendly layout (single-page, two-column UI)
 
----
+
 
 ## 🛠 Tools & Library
 
@@ -30,5 +30,9 @@ The interface is built using **Gradio**, allowing users to easily interact with 
 8. pandas - Data preprocessing and formatting
 
 
----
 
+
+🙋‍♂️ Author
+- Astha Srivastava
+- Email: asthasri297@gmail.com
+- LinkedIn: www.linkedin.com/in/astha-sri07
