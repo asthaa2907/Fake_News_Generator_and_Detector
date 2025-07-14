@@ -29,7 +29,7 @@ The interface is built using **Gradio**, allowing users to easily interact with 
 7. scikit-learn - Label encoding, model metrics
 8. pandas - Data preprocessing and formatting
 
-
+## You can download the jupyter notebook file to run the model
 
 
 🙋‍♂️ Author
